@@ -1,0 +1,13 @@
+{
+  "name": "genpark-octree-3d-spatial-partitioning-indexer-skill",
+  "version": "1.0.0",
+  "description": "Dynamic Octree 3D hierarchical spatial indexer supporting logarithmic range queries, collision volume culling, and point neighbor queries.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "octree",
+    "3d-spatial-partitioning",
+    "spatial-indexing",
+    "collision-detection"
+  ]
+}
